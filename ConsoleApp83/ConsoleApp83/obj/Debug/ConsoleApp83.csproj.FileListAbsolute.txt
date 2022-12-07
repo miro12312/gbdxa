@@ -1,0 +1,8 @@
+C:\Users\PC4\source\repos\ConsoleApp83\ConsoleApp83\obj\Debug\ConsoleApp83.csproj.AssemblyReference.cache
+C:\Users\PC4\source\repos\ConsoleApp83\ConsoleApp83\obj\Debug\ConsoleApp83.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC4\source\repos\ConsoleApp83\ConsoleApp83\obj\Debug\ConsoleApp83.csproj.CoreCompileInputs.cache
+C:\Users\PC4\source\repos\ConsoleApp83\ConsoleApp83\bin\Debug\ConsoleApp83.exe.config
+C:\Users\PC4\source\repos\ConsoleApp83\ConsoleApp83\bin\Debug\ConsoleApp83.exe
+C:\Users\PC4\source\repos\ConsoleApp83\ConsoleApp83\bin\Debug\ConsoleApp83.pdb
+C:\Users\PC4\source\repos\ConsoleApp83\ConsoleApp83\obj\Debug\ConsoleApp83.exe
+C:\Users\PC4\source\repos\ConsoleApp83\ConsoleApp83\obj\Debug\ConsoleApp83.pdb
